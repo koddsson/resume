@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Kristján Oddsson",
+    "label": "Programmer",
+    "picture": "me.png",
+    "email": "koddsson@gmail.com",
+    "phone": "(354) 661-4265",
+    "website": "http://koddsson.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Reykjavík",
+      "countryCode": "IS",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "koddsson",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "koddsson",
+        "url": "https://github.com/koddsson"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Gagnavarslan/Azazo",
+      "position": "Devops/Programmer",
+      "website": "http://azazo.com",
+      "startDate": "2012-01-02",
+      "summary": "Azazo is a knowledge and software company specialising in the management of information, records, projects, meetings and quality issues using the CoreData ECM software solution.",
+      "highlights": [ ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mozilla",
+      "position": "Code Contributer",
+      "website": "http://mozilla.com/",
+      "startDate": "2014-10-15",
+      "endDate": "2015-01-01",
+      "summary": "The Mozilla community uses, develops, spreads and supports Mozilla products, thereby promoting exclusively free software and open standards, with only minor exceptions.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Reykjavík University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2012-01-01",
+      "gpa": "",
+      "courses": [ ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ClojureScript"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Django"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Icelandic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent second language"
+    }
+  ],
+  "interests": [{}],
+  "references": []
+}
