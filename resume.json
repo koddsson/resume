@@ -143,9 +143,9 @@
     }
   ],
   "interests": [
-    {"name": "robotics", "keywords": ""},
-    {"name": "boardgames", "keywords": ""},
-    {"name": "traveling", "keywords": ""}
+    {"name": "robotics", "keywords": []},
+    {"name": "boardgames", "keywords": []},
+    {"name": "traveling", "keywords": []}
   ],
   "references": []
 }
