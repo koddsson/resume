@@ -1,11 +1,12 @@
 {
   "basics": {
     "name": "Kristján Oddsson",
-    "label": "Programmer",
+    "label": "Developer",
     "picture": "http://koddsson.com/me-icon.png",
     "email": "koddsson@gmail.com",
     "phone": "(354) 661-4265",
     "website": "http://koddsson.com",
+    "summary": "Developer with a sense of clean/beautiful code, testing, test coverage and separation of concerns. Love contributing to open source and learning new things.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,26 +17,26 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "koddsson",
-        "url": ""
+        "username": "koddsson"
       },
       {
         "network": "GitHub",
-        "username": "koddsson",
-        "url": "https://github.com/koddsson"
+        "username": "koddsson"
       }
     ]
   },
   "work": [
     {
       "company": "Gagnavarslan/Azazo",
-      "position": "Programmer/Devops",
+      "position": "Mid-level Developer",
       "website": "http://azazo.com",
       "startDate": "2012-01-02",
-      "summary": "Azazo is a knowledge and software company specialising in the management of information, records, projects, meetings and quality issues using the CoreData ECM software solution.",
+      "summary": "Started as a 'devop' in the sysadmin space at Azazo working on automating trivial tasks for developers and sysadmins alike. Worked my way up the infrastructure stack to the frontend where I'm currently working on a new UI for the companies flagship product Coredata.",
       "highlights": [
         "Got first place at a company hackathon in 2014 for a working Google Drive integration with another co-worker",
-        "Got second place in a 2013 company hackathon for a small arduino traffic light test status indicator"
+        "Got second place in a 2013 company hackathon for a small arduino traffic light test status indicator",
+        "Setup a Logstash/Kibana/Elasticsearch cluster that recieves incoming logs from servers and serves 'em up centrally in a nice GUI",
+        "Added a ECMAScript6 transpiler to the front-end stack for great justice and fun."
       ]
     },
     {
@@ -67,7 +68,7 @@
     },
     {
       "company": "Reykjavik University",
-      "position": "Lead programmer",
+      "position": "Lead developer",
       "startDate": "2012-09-01",
       "endDate": "2012-12-30",
       "summary": "A collabaration between Reykjavík University and Össur Bionics. The project was building a test robot for Össur so that they could better test their bionics without the need for calling in amputees and collecting data from them manually. I was the only programmer in a group of 15 and the rest were bio–engineers. Although we took a 'Full stack' approach I did most of the programming and didn’t do a lot of hardware work."
@@ -87,8 +88,14 @@
       "position": "Code Contributer",
       "website": "http://mozilla.com/",
       "startDate": "2014-10-15",
-      "endDate": "2015-01-01",
-      "summary": "The Mozilla community uses, develops, spreads and supports Mozilla products, thereby promoting exclusively free software and open standards, with only minor exceptions.",
+      "summary": "Made numerous contributions to various mozilla projects from the snippets service that serves 4-5 billion pageviews a day to small support pages, doing everything from changing how a system handles data structures to convert a existing website to be responsive.",
+      "highlights": []
+    }, {
+      "organization": "apis.is",
+      "position": "Code Contributer",
+      "website": "http://apis.is/",
+      "startDate": "2014-09-06",
+      "summary": "Started off doing some bugfixes, code cleanup and adding features and ended up getting jumped into the core developer team where I help make decisions on arcitecture of the project, design of assets and oversee pull requests and incoming issues.",
       "highlights": []
     }
   ],
@@ -116,19 +123,46 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
       "keywords": [
+        "Responsive design",
         "HTML",
         "CSS",
+        "LESS",
         "Javascript",
-        "ClojureScript"
+        "ClojureScript",
+        "react.js",
+        "angular",
+        "jQuery"
       ]
-    },
-    {
+    }, {
       "name": "Python",
-      "level": "Master",
       "keywords": [
         "Django"
+      ]
+    }, {
+      "name": "C#",
+      "keywords": [
+        "Winforms", "ASP.NET", "LINQ"
+      ]
+    }, {
+      "name": "Java",
+      "keywords": [
+        "Android"
+      ]
+    }, {
+      "name": "Clojure",
+      "keywords": [
+        "Boot", "Leiningen", "Functional"
+      ]
+    }, {
+      "name": "Databases",
+      "keywords": [
+        "PostgreSQL", "MySQL", "MSSQL", "Oracle", "AS/400"
+      ]
+    }, {
+      "name": "Operating systems",
+      "keywords": [
+        "Linux/Unix", "OSX", "Windows"
       ]
     }
   ],
@@ -140,12 +174,12 @@
     {
       "language": "English",
       "fluency": "Fluent second language"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Finished level 3 on duolingo!"
     }
   ],
-  "interests": [
-    {"name": "robotics", "keywords": []},
-    {"name": "boardgames", "keywords": []},
-    {"name": "traveling", "keywords": []}
-  ],
+  "interests": [],
   "references": []
 }
