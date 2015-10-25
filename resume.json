@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kristján Oddsson",
     "label": "Developer",
-    "picture": "http://koddsson.com/me-icon.png",
+    "picture": "http://koddsson.com/me-web.png",
     "email": "koddsson@gmail.com",
     "phone": "(354) 661-4265",
     "website": "http://koddsson.com",
@@ -27,16 +27,25 @@
   },
   "work": [
     {
+      "company": "Bókun",
+      "position": "Head of Front-end development",
+      "website": "http://bokun.io",
+      "startDate": "2015-06-01",
+      "summary": "Working on several web-apps within the company set to replace certain areas within the Bókun platform",
+      "highlights": []
+    },
+    {
       "company": "Gagnavarslan/Azazo",
       "position": "Mid-level Developer",
       "website": "http://azazo.com",
       "startDate": "2012-01-02",
-      "summary": "Started as a 'devop' in the sysadmin space at Azazo working on automating trivial tasks for developers and sysadmins alike. Worked my way up the infrastructure stack to the frontend where I'm currently working on a new UI for the companies flagship product Coredata.",
+      "endDate": "2015-06-01",
+      "summary": "Started as a 'devop' in the sysadmin space at Azazo working on automating trivial tasks for developers and sysadmins alike. Worked my way up the infrastructure stack to the frontend where I worked on a new UI for the companies flagship product Coredata.",
       "highlights": [
         "Got first place at a company hackathon in 2014 for a working Google Drive integration with another co-worker",
         "Got second place in a 2013 company hackathon for a small arduino traffic light test status indicator",
         "Setup a Logstash/Kibana/Elasticsearch cluster that recieves incoming logs from servers and serves 'em up centrally in a nice GUI",
-        "Added a ECMAScript6 transpiler to the front-end stack for great justice and fun."
+        "Pushed for strating writing ECMAScript6 using a transpiler for the front-end"
       ]
     },
     {
