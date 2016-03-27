@@ -10,4 +10,4 @@ run:
 
 publish:
 	make test
-	resume publish
+	resume publish --theme modern
