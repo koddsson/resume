@@ -27,10 +27,21 @@
   },
   "work": [
     {
+      "company": "QuizUp",
+      "position": "Web engineer",
+      "website": "http://quizup.com",
+      "startDate": "2016-01-17",
+      "summary": "Working in the web tools team to build and maintain internal systems as well as jumping into any and all projects that would come up.",
+      "highlights": [
+        "Migrated a very large and complicated codebase from heroku to AWS"
+      ]
+    },
+    {
       "company": "Bókun",
       "position": "Head of Front-end development",
       "website": "http://bokun.io",
       "startDate": "2015-06-01",
+      "endDate": "2016-01-15",
       "summary": "Working on several web-apps within the company set to replace key areas within the Bókun platform",
       "highlights": []
     },
