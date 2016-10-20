@@ -2,11 +2,9 @@
   "basics": {
     "name": "Kristján Oddsson",
     "label": "Developer",
-    "picture": "https://i.imgur.com/AXEXBa8.png",
     "email": "koddsson@gmail.com",
     "phone": "(354) 661-4265",
     "website": "http://koddsson.com",
-    "summary": "Developer with a sense of clean/beautiful code, testing and separation of concerns. Love contributing to open source and learning new things.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -31,7 +29,8 @@
       "position": "Web engineer",
       "website": "http://quizup.com",
       "startDate": "2016-01-17",
-      "summary": "Working in the web tools team to build and maintain internal systems as well as jumping into any and all projects that would come up.",
+      "endDate": "2017-01-01",
+      "summary": "Started in the web tools team to build and maintain internal systems. Jumped around the tech stack to accommodate the pivoting of the company. Ended up working on backend services in mix with internal webs as well as quizup.com",
       "highlights": [
         "Migrated a very large and complicated codebase from heroku to AWS"
       ]
@@ -87,7 +86,7 @@
       "highlights": []
     },
     {
-      "company": "Reykjavik University",
+      "company": "Project X course, Reykjavik University",
       "position": "Lead developer",
       "startDate": "2012-09-01",
       "endDate": "2012-12-30",
@@ -139,9 +138,26 @@
       "courses": [ ]
     }
   ],
-
+  "awards": [{
+    "title": "2nd place at IceCTF, the Icelandic Hacking Competition",
+    "date": "2016-08-26",
+    "awarder": "IceCTF",
+    "summary": "IceCTF is a computer security contest targeted at anyone with an interest in computer science. The game consists of a series of challenges where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. The challenges are all set up with the intent of being hacked, making it a great way to get some hands-on experience."
+  }],
   "skills": [
     {
+      "name": "Scala"
+    }, {
+      "name": "Python"
+    }, {
+      "name": "C#"
+    }, {
+      "name": "Java"
+    }, {
+      "name": "Clojure"
+    }, {
+      "name": "Systems administration"
+    }, {
       "name": "Web Development",
       "keywords": [
         "Responsive design",
@@ -150,29 +166,9 @@
         "LESS",
         "Javascript",
         "ClojureScript",
-        "react.js",
+        "react",
         "angular",
         "jQuery"
-      ]
-    }, {
-      "name": "Python",
-      "keywords": [
-        "Django"
-      ]
-    }, {
-      "name": "C#",
-      "keywords": [
-        "Winforms", "ASP.NET", "LINQ"
-      ]
-    }, {
-      "name": "Java",
-      "keywords": [
-        "Android"
-      ]
-    }, {
-      "name": "Clojure",
-      "keywords": [
-        "Boot", "Leiningen", "Functional"
       ]
     }, {
       "name": "Databases",
@@ -195,7 +191,5 @@
       "language": "English",
       "fluency": "Fluent second language"
     }
-  ],
-  "interests": [],
-  "references": []
+  ]
 }
