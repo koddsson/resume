@@ -49,8 +49,7 @@
       "website": "http://bokun.io",
       "startDate": "2015-06-01",
       "endDate": "2016-01-15",
-      "summary": "Working on several web-apps within the company set to replace key areas within the Bókun platform",
-      "highlights": []
+      "summary": "Working on several web-apps within the company set to replace key areas within the Bókun platform"
     },
     {
       "company": "Gagnavarslan/Azazo",
@@ -72,8 +71,7 @@
       "website": "http://ru.is/",
       "startDate": "2013-01-01",
       "endDate": "2013-06-01",
-      "summary": "Supervised lab classes, held a few lectures and graded assignments and tests. The class is a crash-course on web programming teaching HTML, CSS, Javascript, jQuery, C#, Microsofts C# MVC, web services, AJAX and more.",
-      "highlights": []
+      "summary": "Supervised lab classes, held a few lectures and graded assignments and tests. The class is a crash-course on web programming teaching HTML, CSS, Javascript, jQuery, C#, Microsofts C# MVC, web services, AJAX and more."
     },
     {
       "company": "Arion bank",
@@ -90,8 +88,7 @@
       "website": "http://arionbanki.is",
       "startDate": "2012-09-01",
       "endDate": "2012-12-30",
-      "summary": "Worked on a investment fund simulation game as a B.Sc. project. Players would invest virtual money in real funds at Arion Bank and their return would take aim from real data. Its main objective was to introduce people to investment funding without the risk. While the game did not move forward after the project was complete (i.e. it never went live) the people in the group all recieved a passing grade and graduated B.Sc. in computer science that spring. My role in the group was mostly backend related although we took a 'Full Stack' approach to it",
-      "highlights": []
+      "summary": "Worked on a investment fund simulation game as a B.Sc. project. Players would invest virtual money in real funds at Arion Bank and their return would take aim from real data. Its main objective was to introduce people to investment funding without the risk. While the game did not move forward after the project was complete (i.e. it never went live) the people in the group all recieved a passing grade and graduated B.Sc. in computer science that spring. My role in the group was mostly backend related although we took a 'Full Stack' approach to it"
     },
     {
       "company": "Project X course, Reykjavik University",
@@ -115,15 +112,13 @@
       "position": "Code Contributer",
       "website": "http://mozilla.com/",
       "startDate": "2014-10-15",
-      "summary": "Made numerous contributions to various mozilla projects from the snippets service that serves 4-5 billion pageviews a day to small support pages, doing everything from changing how a system handles data structures to convert a existing website to be responsive.",
-      "highlights": []
+      "summary": "Made numerous contributions to various mozilla projects from the snippets service that serves 4-5 billion pageviews a day to small support pages, doing everything from changing how a system handles data structures to convert a existing website to be responsive."
     }, {
       "organization": "apis.is",
       "position": "Code Contributer",
       "website": "http://apis.is/",
       "startDate": "2014-09-06",
-      "summary": "Started off doing some bugfixes, code cleanup and adding features and ended up getting jumped into the core developer team where I help make decisions on arcitecture of the project, design of assets and oversee pull requests and incoming issues.",
-      "highlights": []
+      "summary": "Started off doing some bugfixes, code cleanup and adding features and ended up getting jumped into the core developer team where I help make decisions on arcitecture of the project, design of assets and oversee pull requests and incoming issues."
     }
   ],
   "education": [
@@ -132,18 +127,14 @@
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2009-01-01",
-      "endDate": "2012-01-01",
-      "gpa": "",
-      "courses": [ ]
+      "endDate": "2012-01-01"
     },
     {
       "institution": "Technical College of Reykjavík",
       "area": "Information Technology",
       "studyType": "College",
       "startDate": "2005-01-01",
-      "endDate": "2008-01-01",
-      "gpa": "",
-      "courses": [ ]
+      "endDate": "2008-01-01"
     }
   ],
   "awards": [{
