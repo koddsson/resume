@@ -3,7 +3,6 @@
     "name": "Kristján Oddsson",
     "label": "Developer",
     "email": "koddsson@gmail.com",
-    "phone": "(354) 661-4265",
     "website": "http://koddsson.com",
     "location": {
       "address": "",
@@ -15,11 +14,13 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "koddsson"
+        "username": "koddsson",
+        "url": "https://twitter.com/koddsson"
       },
       {
         "network": "Github",
-        "username": "koddsson"
+        "username": "koddsson",
+        "url": "https://github.com/koddsson"
       }
     ]
   },
