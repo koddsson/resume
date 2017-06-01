@@ -137,12 +137,20 @@
       "endDate": "2008-01-01"
     }
   ],
-  "awards": [{
-    "title": "2nd place at IceCTF, the Icelandic Hacking Competition",
-    "date": "2016-08-26",
-    "awarder": "IceCTF",
-    "summary": "IceCTF is a computer security contest targeted at anyone with an interest in computer science. The game consists of a series of challenges where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. The challenges are all set up with the intent of being hacked, making it a great way to get some hands-on experience."
-  }],
+  "awards": [
+    {
+      "title": "2nd place at IceCTF, the Icelandic Hacking Competition",
+      "date": "2016-08-26",
+      "awarder": "IceCTF",
+      "summary": "IceCTF is a computer security contest targeted at anyone with an interest in computer science. The game consists of a series of challenges where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. The challenges are all set up with the intent of being hacked, making it a great way to get some hands-on experience."
+    },
+    {
+      "title": "3rd place at IceCTF, the Icelandic Hacking Competition",
+      "date": "2015-08-26",
+      "awarder": "IceCTF",
+      "summary": "IceCTF is a computer security contest targeted at anyone with an interest in computer science. The game consists of a series of challenges where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. The challenges are all set up with the intent of being hacked, making it a great way to get some hands-on experience."
+    }
+  ],
   "skills": [
     {
       "name": "Scala"
