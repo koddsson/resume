@@ -1,7 +1,5 @@
 # My resume
 
-Here's my resume via JSON as per the [jsonresume.org](https://jsonresume.org/)
-schema.
+Here's my resume via JSON as per the [jsonresume.io](https://jsonresume.io/) schema.
 
-See [http://registry.jsonresume.org/koddsson](http://registry.jsonresume.org/koddsson)
-for a compiled version.
+See [https://jsonresume.io/koddsson](https://jsonresume.io/koddsson) for a compiled version.
