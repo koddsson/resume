@@ -4,6 +4,6 @@ env:
   secure: "utOnkv8mVBZMn9zU8ufDh6vdCMqYIcCRy2eJyOPt+Xcc0noEMcL7zVKn6qxDPctiW/pj5nNHkAIm8kz46SLMib+BSLxfzCBA75SEInJXiRsXT2DAp/bd7+c+/XzjlAphvzIUJSurrQcfVWCc3FQVbqBroH+jlLP+uYeBpmauFvY="
 deploy:
   provider: script
-  script: curl https://jsonresume.io/koddsson -d @resume.json -H "Content-Type: Application/json" -H "auth:$AUTH"
+  script: 'curl https://jsonresume.io/koddsson -d @resume.json -H "Content-Type: Application/json" -H "auth:$AUTH"'
   on:
     branch: master
