@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Here's my resume via JSON as per the [jsonresume.io](https://jsonresume.io/) schema.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ajv validate -s schema.json -d resume.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koddsson/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koddsson/resume/issues"
+  },
+  "homepage": "https://github.com/koddsson/resume#readme",
+  "dependencies": {
+    "ajv-cli": "^3.0.0"
+  }
+}
