@@ -177,52 +177,6 @@
       "summary": "IceCTF is a computer security contest targeted at anyone with an interest in computer science. The game consists of a series of challenges where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. The challenges are all set up with the intent of being hacked, making it a great way to get some hands-on experience."
     }
   ],
-  "skills": [
-    {
-      "name": "Scala"
-    }, {
-      "name": "Python"
-    }, {
-      "name": "C#"
-    }, {
-      "name": "Java"
-    }, {
-      "name": "Clojure"
-    }, {
-      "name": "Systems administration"
-    }, {
-      "name": "Web Development",
-      "keywords": [
-        "Responsive design",
-        "HTML",
-        "CSS",
-        "LESS",
-        "Javascript",
-        "ClojureScript",
-        "react",
-        "angular",
-        "jQuery"
-      ]
-    }, {
-      "name": "Databases",
-      "keywords": [
-        "PostgreSQL", "MySQL", "MSSQL", "Oracle", "AS/400"
-      ]
-    }, {
-      "name": "Operating systems",
-      "keywords": [
-        "Linux/Unix", "OSX", "Windows"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Icelandic",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent second language"
-    }
-  ]
+  "skills": [],
+  "languages": []
 }
