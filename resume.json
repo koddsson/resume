@@ -21,6 +21,20 @@
       "company": "GitHub",
       "position": "Senior Software Engineer",
       "website": "https://github.com",
+      "startDate": "2022-08-01",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "summary": "A member of the web-systems team, responsibilites include supporting Application Engineers writing JavaScript for github.com, refactoing JavaScript, introducing new web features and more.",
+      "highlights": [
+        "Migrated multiple d3 libraries to be dynamically loaded rather than loaded as part of a large \"graphs\" bundle",
+        "Worked with team to migrate the codebase to use Rails Turbo for page navigation from a internal navigational framework",
+        "Took the entire JavaScript test suite from running in ~1min to around 8-10 seconds"
+      ]
+    },
+    {
+      "company": "GitHub",
+      "position": "Senior Software Engineer",
+      "website": "https://github.com",
       "startDate": "2021-09-01",
       "summary": "A member of the web-systems team, responsibilites include supporting Application Engineers writing JavaScript for github.com, refactoing JavaScript, introducing new web features and more.",
       "highlights": [
