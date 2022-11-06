@@ -36,6 +36,9 @@
       "position": "Senior Software Engineer",
       "website": "https://github.com",
       "startDate": "2021-09-01",
+      "endDate": "2022-08-01",
+      "city": "London",
+      "countryCode": "UK",
       "summary": "A member of the web-systems team, responsibilites include supporting Application Engineers writing JavaScript for github.com, refactoing JavaScript, introducing new web features and more.",
       "highlights": [
         "Migrated multiple d3 libraries to be dynamically loaded rather than loaded as part of a large \"graphs\" bundle",
@@ -49,6 +52,8 @@
       "website": "https://github.com",
       "startDate": "2017-08-24",
       "endDate": "2021-09-01",
+      "city": "London",
+      "countryCode": "UK",
       "summary": "A member of the web-systems team, responsibilites include supporting Application Engineers writing JavaScript for github.com, refactoing JavaScript, introducing new web features and more.",
       "highlights": [
         "Made a change to make sure the name and icon was correct for github.com when user added the site as a web app on Android devices",
@@ -62,6 +67,8 @@
       "website": "https://cloudflare.com",
       "startDate": "2016-11-01",
       "endDate": "2017-08-16",
+      "city": "London",
+      "countryCode": "UK",
       "summary": "Working on the client dashboard for cloudflare.com as well as helping make descision on what technologies to use to help use ship faster and better.",
       "highlights": [
         "Crafted a chrome extension to redirect live platform requests to a local web server in order to develop new features faster against real data."
@@ -73,6 +80,8 @@
       "website": "http://quizup.com",
       "startDate": "2016-01-17",
       "endDate": "2016-10-30",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "Started in the web tools team to build and maintain internal systems. Jumped around the tech stack to accommodate the pivoting of the company. Ended up working on backend services in mix with internal webs as well as quizup.com",
       "highlights": [
         "Migrated a very large and complicated codebase from heroku to AWS"
@@ -84,6 +93,8 @@
       "website": "http://bokun.io",
       "startDate": "2015-06-01",
       "endDate": "2016-01-15",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "Working on several web-apps within the company set to replace key areas within the Bókun platform"
     },
     {
@@ -92,6 +103,8 @@
       "website": "http://azazo.com",
       "startDate": "2012-01-02",
       "endDate": "2015-06-01",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "Started as a 'devop' in the sysadmin space at Azazo working on automating trivial tasks for developers and sysadmins alike. Worked my way up the infrastructure stack to the frontend where I worked on a new UI for the companies flagship product Coredata.",
       "highlights": [
         "Got first place at a company hackathon in 2014 for a working Google Drive integration with another co-worker",
@@ -106,6 +119,8 @@
       "website": "http://ru.is/",
       "startDate": "2013-01-01",
       "endDate": "2013-06-01",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "Supervised lab classes, held a few lectures and graded assignments and tests. The class is a crash-course on web programming teaching HTML, CSS, Javascript, jQuery, C#, Microsofts C# MVC, web services, AJAX and more."
     },
     {
@@ -114,6 +129,8 @@
       "website": "http://arionbanki.is",
       "startDate": "2012-06-01",
       "endDate": "2012-12-01",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "Worked on the banks web-based personal banking solution. Spent most of my time system bug hunting/fixing. The stack would consist of ASP.NET MVC, C#, jQuery & MSSQL.",
       "highlights": []
     },
@@ -123,6 +140,8 @@
       "website": "http://arionbanki.is",
       "startDate": "2012-09-01",
       "endDate": "2012-12-30",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "Worked on a investment fund simulation game as a B.Sc. project. Players would invest virtual money in real funds at Arion Bank and their return would take aim from real data. Its main objective was to introduce people to investment funding without the risk. While the game did not move forward after the project was complete (i.e. it never went live) the people in the group all recieved a passing grade and graduated B.Sc. in computer science that spring. My role in the group was mostly backend related although we took a 'Full Stack' approach to it"
     },
     {
@@ -130,6 +149,8 @@
       "position": "Lead developer",
       "startDate": "2012-09-01",
       "endDate": "2012-12-30",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "A collabaration between Reykjavík University and Össur Bionics. The project was building a test robot for Össur so that they could better test their bionics without the need for calling in amputees and collecting data from them manually. I was the only programmer in a group of 15 and the rest were bio–engineers. Although we took a 'Full stack' approach I did most of the programming and didn’t do a lot of hardware work."
     },
     {
@@ -138,6 +159,8 @@
       "website": "http://islandsbanki.is",
       "startDate": "2010-01-01",
       "endDate": "2011-01-01",
+      "city": "Reykjavík",
+      "countryCode": "IS",
       "summary": "Started working on some changes to a specialized car loans application written in Classic ASP and AS/400 and was then moved to the banks web-based personal banking solution. Most of the work in the online banking solution was developed in Microsofts C# MVC, Oracle SQL and jQuery."
     }
   ],
